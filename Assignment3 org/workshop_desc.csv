@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+end_date,date,YES,,NULL,
+id,int(11),NO,PRI,NULL,
+start_date,date,YES,,NULL,
+description,varchar(255),YES,,NULL,
+name,varchar(255),YES,,NULL,

@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+phone,int(11),NO,,NULL,
+affiliation,varchar(255),YES,,NULL,
+country,varchar(255),YES,,NULL,
+email,varchar(255),YES,,NULL,
+gender,varchar(255),YES,,NULL,
+id,varchar(255),NO,PRI,NULL,
+job_title,varchar(255),YES,,NULL,
+name,varchar(255),YES,,NULL,

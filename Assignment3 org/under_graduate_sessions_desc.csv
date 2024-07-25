@@ -1,0 +1,3 @@
+Field,Type,Null,Key,Default,Extra
+sessions_id,varchar(255),NO,MUL,NULL,
+under_graduates_id,varchar(255),NO,MUL,NULL,

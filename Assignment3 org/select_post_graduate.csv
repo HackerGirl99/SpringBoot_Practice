@@ -1,0 +1,11 @@
+phone,email,gender,id,institute,name,research_interest,second_degree
+123456789,john.doe@example.com,Male,PG001,"University A","John Doe",Neuroscience,M.Sc.
+987654321,jane.smith@example.com,Female,PG002,"College B","Jane Smith","Biomedical Eng.",M.Tech
+555123789,mike.williams@example.com,Male,PG003,"Institute X","Mike Williams",Biochemistry,M.Sc.
+777555888,emily.johnson@example.com,Female,PG004,"University Y","Emily Johnson","Molecular Biology",M.Sc.
+444777333,david.brown@example.com,Male,PG005,"School of Medicine","David Brown",Immunology,M.D.
+222333444,sarah.wang@example.com,Female,PG006,"College C","Sarah Wang",Genetics,M.Sc.
+666999111,chris.nguyen@example.com,Male,PG007,"University Z","Chris Nguyen",Microbiology,M.Sc.
+111222333,amy.garcia@example.com,Female,PG008,"Institute Y","Amy Garcia",Biotechnology,M.Tech
+888777666,andrew.kim@example.com,Male,PG009,"School of Pharmacy","Andrew Kim",Pharmacology,Pharm.D
+999888777,lisa.miller@example.com,Female,PG010,"College D","Lisa Miller",Bioinformatics,M.Tech

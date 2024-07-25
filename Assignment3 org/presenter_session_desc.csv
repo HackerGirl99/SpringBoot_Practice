@@ -1,0 +1,7 @@
+Field,Type,Null,Key,Default,Extra
+date,date,YES,,NULL,
+time,time(6),YES,,NULL,
+workshop_id,int(11),YES,MUL,NULL,
+description,varchar(255),YES,,NULL,
+id,varchar(255),NO,PRI,NULL,
+name,varchar(255),YES,,NULL,

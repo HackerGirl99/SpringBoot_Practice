@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+phone,int(11),NO,,NULL,
+degree,varchar(255),YES,,NULL,
+email,varchar(255),YES,,NULL,
+gender,varchar(255),YES,,NULL,
+id,varchar(255),NO,PRI,NULL,
+name,varchar(255),YES,,NULL,
+university,varchar(255),YES,,NULL,
